@@ -1,2 +1,2 @@
 # Arduino
-Arduino for everyt Project
+Arduino for every Project
